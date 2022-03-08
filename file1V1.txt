@@ -2,3 +2,4 @@ file 1 in master
 this is new file
 line3
 line4 testing
+line6 at mater
